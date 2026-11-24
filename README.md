@@ -115,7 +115,7 @@ If you are a recruiter, developer, or someone interested in collaboration, feel 
 
 - **Name:** A Gokulnath
 - **Email:** gogulnath2005@gmail.com
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/gokul-nath)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/gokul-nath-b0b5a53a7/)
 - **Phone:** +91 6379550215
 
 ## 📌 Future Improvements
